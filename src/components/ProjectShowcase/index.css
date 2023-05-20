@@ -1,0 +1,24 @@
+.project-showcase-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.project-showcase-logo-container {
+  background-color: #e2e8f0;
+  width: 100%;
+}
+.select-category {
+  width: 500px;
+  height: 20px;
+  border-color: #e6e9ec;
+  font-family: 'Roboto';
+
+  margin-left: 120px;
+}
+.project-list-container {
+  display: flex;
+  justify-content: center;
+  min-width: 400px;
+  flex-wrap: wrap;
+}
